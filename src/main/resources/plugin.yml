@@ -1,0 +1,8 @@
+name: Conway
+version: '${project.version}'
+main: dev.fumaz.conway.Conway
+api-version: 1.19
+authors: [ Fumaz ]
+website: https://fumaz.dev
+commands:
+  conway: { }
